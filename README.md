@@ -1,5 +1,9 @@
 # ViConsole
 - MaxMines miner console easy to use
+## Thông tin phiên bản
+- Phiên bản: R1.0.2
+- Ngày phát hành: 12/04/2020
+- Nhà phát hành: ViTech from RQN9
 ## Chức năng
 - Setup máy đào đơn giản
 - Tự động thay đổi thread theo năng suất máy tại mỗi
