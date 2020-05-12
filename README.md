@@ -1,5 +1,7 @@
 # ViConsole
 - MaxMines miner console easy to use
+## Usage
+- Mở console, khi khởi động lần đầu sẽ có những hướng dẫn setup máy đào. Nếu đây không phải lần đầu bạn sử dụng, sẽ có tùy chọn reset máy đào.
 ## Thông tin phiên bản
 - Phiên bản: R1.0.2
 - Ngày phát hành: 12/04/2020
