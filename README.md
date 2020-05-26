@@ -16,5 +16,4 @@ thời điểm
 - Tự động khởi động/tự động tạm dừng mỗi khi có người truy
 cập desktop (Chi tiết xem [Bản nội bộ](https://github.com/lesongvi/ViConsole/blob/master/README.md#Phiên+bản+nội+bộ))
 ## Phiên bản nội bộ
-- Xin chào, nếu bạn muốn phiên bản nội bộ hãy gửi
-mail của bạn cùng lý do cho vi@rqn9.com
+- Xin chào, nếu bạn muốn phiên bản nội bộ hãy gửi một yêu cầu trợ giúp tại [Trang hỗ trợ của MaxMines](https://maxmines.com/contact). Vui lòng không gửi mail.
