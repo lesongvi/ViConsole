@@ -1,3 +1,5 @@
+**ViConsole không còn được phát triển nữa! Hãy sử dụng [MaxMines CLI](https://github.com/lesongvi/maxmines-cli) thay thế**
+
 # ViConsole
 - MaxMines miner console easy to use
 ## Usage
